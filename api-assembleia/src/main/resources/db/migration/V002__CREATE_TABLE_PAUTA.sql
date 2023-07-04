@@ -1,0 +1,6 @@
+CREATE TABLE PAUTA (
+	ID_PAUTA BIGINT NOT NULL auto_increment,
+    DESCRICAO TEXT NOT NULL,
+
+    primary key(ID_PAUTA)
+);
